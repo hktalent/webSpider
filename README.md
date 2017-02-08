@@ -1,4 +1,8 @@
 # webSpider
-how use 
+# How to install
 
-npm install -g --save crawler
+
+
+    $ npm install -g --save crawler
+    
+    
